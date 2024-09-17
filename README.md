@@ -1,2 +1,2 @@
 # 🎯 icon
-Official Repo of the "icon: Fast Simulation of Epidemics on Coevolving Networks" paper.
+Official Repo of the _icon: Fast Simulation of Epidemics on Coevolving Networks_ paper.
