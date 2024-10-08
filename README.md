@@ -3,7 +3,7 @@
 # 🎯 icon
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/gerritgr/icon/blob/main/icon.ipynb)
 
-Official Repo of the _icon: Fast Simulation of Epidemics on Coevolving Networks_ paper.
+Official Repo of the _icon: Fast Simulation of Epidemics on Coevolving Networks_ paper ((Arxiv))[https://arxiv.org/abs/2410.04987].
 
 
 In _coevolving_ (or _adaptive_, a special case of _temporal_ or _time-varying_) networks, the network structure evolves in response to the spreading dynamics and vice versa.
