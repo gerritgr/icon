@@ -12,6 +12,7 @@ In _coevolving_ (or _adaptive_, a special case of _temporal_ or _time-varying_) 
 _icon_ allows you to simulate epidemic models on coevolving networks using rejection sampling. 
 We extend the classical stochastic and continuous-time SIS (Susceptible-Infected-Susceptible) model by incorporating rules that allow for the association (creating an edge) of two unconnected susceptible nodes and the dissociation (removing an edge) of connected infected nodes.
 
+**We are looking for collaborators for a more in-depth evaluation, methodical improvements and faster implementation. Talk to [me](https://gerritgrossmann.de/) if you are interested.**
 
 # ⚙️ Dynamics
 
